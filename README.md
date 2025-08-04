@@ -60,7 +60,3 @@ First to reach the score limit (you can customize it in the code) wins the game.
 
 This project is open source under the [MIT License](LICENSE).
 
----
-
-If you'd like, I can help you generate a version with screenshots or embed GIFs to show gameplay too. Just let me know.
-
